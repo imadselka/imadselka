@@ -13,4 +13,6 @@
 <a href="https://instagram.com/imad._selka" target="blank">Instagram</a> or
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/imad-selka-120aa4251/" target="blank">LinkedIn.</a>
 </p>
-<p>For professional inquiries, reach out via email at imadselka.contact@gmail.com.</p>
+<p>For professional inquiries, reach out via email at 
+ <a href="imadselka.contact@gmail.com">imadselka.contact@gmail.com.</a>
+</p>
