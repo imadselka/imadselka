@@ -20,7 +20,7 @@
 
 <h3 align="left">📫Contact</h3>
 <p align="left">
-<a href="https://instagram.com/imad._selka" target="blank">Instagram</a> or
+<a href="https://instagram.com/imad._selka" target="blank">For a quick response, DM me on Instagram</a> or
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/imad-selka-120aa4251/" target="blank">LinkedIn.</a>
 </p>
 <p>For professional inquiries, reach out via email at 
