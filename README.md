@@ -18,7 +18,7 @@
 
 <hr/>
 
-<h3 align="left">📫Connect with me:</h3>
+<h3 align="left">📫Contact</h3>
 <p align="left">
 <a href="https://instagram.com/imad._selka" target="blank">Instagram</a> or
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/imad-selka-120aa4251/" target="blank">LinkedIn.</a>
