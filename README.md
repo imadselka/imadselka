@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Imad</h1>
-<h3 align="center">A passionate developer from algeria.</h3>
+<h4 align="left">A passionate developer from algeria.</h4>
+<p>Hi, I'm Imad Selka, a 20-year-old web developer and data science enthusiast from Algeria. I love creating websites and applications that are user-friendly, responsive, and data-driven.</p>
+
+<hr/>
+
+<h3 align="left">🔭Current Endeavors</h3>
+<p>I'm currently working on some fullstack projects that challenge me and spark my creativity. I'm also learning new tools and libraries to expand my knowledge and skills in web development and data science. I'm passionate about technology and always eager to discover new things. I wake up early, stay motivated, and keep learning every day.</p>
+
+<hr/>
 
 <h3 align="left">⚡Fun facts</h3>
  <ul>
@@ -7,6 +15,8 @@
   <li>As a kid, I wanted to be an astronaut.</li>
   <li>Enjoying using linux</li>
 </ul>
+
+<hr/>
 
 <h3 align="left">📫Connect with me:</h3>
 <p align="left">
