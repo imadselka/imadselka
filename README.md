@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imad</h1>
+<h1 align="center">Hey👋, I'm Imad</h1>
 <h4 align="left">A passionate developer from algeria.</h4>
 <p>Hi, I'm Imad Selka, a 20-year-old web developer and data science enthusiast from Algeria. I love creating websites and applications that are user-friendly, responsive, and data-driven.</p>
 
