@@ -21,7 +21,7 @@
 <p align="left">
  For a quick response, DM me on
 <a href="https://instagram.com/imad._selka" target="blank">Instagram</a> or
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imad-selka-120aa4251/" target="blank">LinkedIn.</a>
+<a href="https://www.linkedin.com/in/imad-selka-120aa4251/" target="blank">LinkedIn.</a>
 </p>
 <p>For professional inquiries, reach out via email at 
  <a href="mailto:imadselka.contact@gmail.com">imadselka.contact@gmail.com.</a>
