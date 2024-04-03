@@ -24,5 +24,5 @@
 <a href="https://www.linkedin.com/in/imad-selka-120aa4251/" target="blank">LinkedIn.</a>
 </p>
 <p>For professional inquiries, reach out via email at 
- <a href="mailto:imadselka.contact@gmail.com">imadselka.contact@gmail.com.</a>
+ <a href="mailto:imadselka.contact@gmail.com">imadselka.contact@gmail.com</a>
 </p>
