@@ -1,11 +1,11 @@
 <h1 align="center">Hey👋, I'm Imad</h1>
 <h4 align="left">A passionate developer from algeria.</h4>
-<p>Hi, I'm Imad Selka, a 20-year-old web developer and data science enthusiast from Algeria. I love creating websites and applications that are user-friendly, responsive, and data-driven.</p>
+<p>Hi, I'm Imad Selka, a 21-year-old full-stack developer and data science enthusiast from Algeria. I love creating websites and applications that are user-friendly, responsive, and data-driven.</p>
 
 <hr/>
 
 <h3 align="left">🔭Current Endeavors</h3>
-<p>I'm currently working on some fullstack projects that challenge me and spark my creativity. I'm also learning new tools and libraries to expand my knowledge and skills in web development and data science. I'm passionate about technology and always eager to discover new things. I wake up early, stay motivated, and keep learning every day.</p>
+<p>I'm a full-stack developer working on projects challenging and igniting my creativity. I'm passionate about technology and always eager to learn new tools and libraries to enhance my web development and data science skills. I have strong capabilities in Next.js and the MERN stack, and I'm well-versed in mobile development using Flutter, Python, and Java. I earned my Bachelor's degree from the University of Abou Bakr Belkaid in Tlemcen, Algeria.</p>
 
 <hr/>
 
