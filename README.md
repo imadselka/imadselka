@@ -12,7 +12,6 @@
 <h3 align="left">⚡Fun facts</h3>
  <ul>
   <li>As a kid, I wanted to be an astronaut</li>
-  <li>FPS games are my favorite</li>
 </ul>
 
 <hr/>
