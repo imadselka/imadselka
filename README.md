@@ -5,7 +5,7 @@
 <hr/>
 
 <h3 align="left">🔭Current Endeavors</h3>
-<p>I'm a full-stack developer working on projects challenging and igniting my creativity. I'm passionate about technology and always eager to learn new tools and libraries to enhance my web development and data science skills. I have strong capabilities in Next.js, MERN Sack,and Python, I earned my Bachelor's degree from the University of Abou Bakr Belkaid in Tlemcen, Algeria.</p>
+<p>I'm a full-stack developer working on projects challenging and igniting my creativity. I'm passionate about technology and eager to learn new tools and libraries to enhance my web development and data science skills. I have strong capabilities in Next.js , and Python, I earned my Bachelor's degree from the University of Abou Bakr Belkaid in Tlemcen, Algeria.</p>
 
 <hr/>
 
