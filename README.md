@@ -1,7 +1,7 @@
 <h1 align="left">Hello👋, I'm Imad</h1>
 <p>Imad Selka, 21 years-old.</p>
 <p>Full Stack, Data Science enthusiastic</p>
-<p>Currently, I focus on full-stack web development while also training and fine-tuning language models.</p>
+<p>Currently, focusing on full-stack web development while also training and fine-tuning language models.</p>
 <p>Staying up-to-date with the latest technologies to deliver outstanding results for my clients.</p>
 <p>I love challenging, enhancing my skills.</p>
 
@@ -21,3 +21,6 @@
 <p>For professional inquiries, reach out via email at 
  <a href="mailto:imadselka.contact@gmail.com">imadselka.contact@gmail.com</a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadselka&label=Profile%20views&color=627eac&style=plastic" alt="imadselka" /> </p>
